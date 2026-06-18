@@ -1,0 +1,15 @@
+
+models/*
+.env
+code_context.txt
+*.csv
+*.json
+*.safetensors
+*.context_cache
+*.venv
+*.pt
+*.pth
+*.bin
+*.zip
+*.png
+MNIST/*
